@@ -18,7 +18,7 @@ dependencies:
   http: ^1.1.0
   image_picker: ^1.0.4
   json_annotation: ^4.8.0
-  rive: ^0.12.3
+  rive: ^0.13.1
   shared_preferences: ^2.2.2
   shimmer: ^3.0.0
 dev_dependencies:
@@ -27,7 +27,7 @@ dev_dependencies:
   json_serializable: ^6.7.1
   freezed: ^2.4.2
   build_runner: ^2.4.6
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.2
 
 flutter:
   uses-material-design: true
